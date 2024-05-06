@@ -1,2 +1,4 @@
 # Zombiedice
-Zombie Dice game from STEVE JACKSON GAMES in Python!
+Zombie Dice game from Steve Jackson in Python! 
+
+All rights reserved to STEVE JACKSON GAMES and GALÁPAGOS JOGOS 
